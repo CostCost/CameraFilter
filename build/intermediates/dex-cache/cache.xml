@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_df3b1944d9b587e14d6e817500d1eba1c89e475e.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_674865a0a2aea5b1ed1129146eb9e4ee7490652c.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.0.2/73283d1faf89c3f25f7b4ead5021d28734bcf982/converter-jackson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73283d1faf89c3f25f7b4ead5021d28734bcf982">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/converter-jackson-2.0.2_07059227ccb523a7a7aed1cd302feb86c2096436.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_b1b2c60e47ec594a0ad0d4a199dddd801d433f14.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_092af46b9f685b0300b0b9bb8a431a277a7c401c.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_771e3c59be2381fe572815babd24a326d9391fb8.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.2/8b8310381b690e317f5f0574e9b2dd7034778b4c/jackson-core-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/jackson-core-2.7.2_621ff4046621aed42e4deeab2b7b7cb8e48a9f4a.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_af5ceaf926f449481a8ab44e67d9c7d28ab2731b.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/gson-2.4_dd150b11cbe1925cc94b9f3ed0c94f3a1bca7d56.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/glide-3.6.0_628e580c0c0082335cc597c4fab362bdc0134884.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.7.0_a9475c6a980a45950b818bf089b34c776ae6c489.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.2/84ffa765dd258dbab8695963c41308b054f3a1cb/jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/jackson-databind-2.7.2_9c44b827e1b8ef0e0414b27db01ba5b4a5048842.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_7def9e1c67b597b691c93b19ab629f5a1be49b74.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/jp.co.cyberagent.android.gpuimage/gpuimage-library/1.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_e5a9d06f556a97766be537e71b49f0a4155ff04a.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_6f756caecbfe49b6f3b282478edc3d9ba9907706.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3_36e8360a55ed3426a0f622c4e7cd0a9248af2f19.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_59bef755101fc1c1f807233d4c33163ccc24ecf5.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_7935fdf8cd5f81ec5a6828d4616d10f721b34a36.jar" />
+    </item>
+    <item
+        jar="/Users/xq/Desktop/MySolution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_e4432bc70297a018f8e9e4b4b264412f2d5e312c.jar" />
+    </item>
+    <item
+        jar="/Users/xq/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/xq/Desktop/MySolution/app/build/intermediates/pre-dexed/debug/okio-1.6.0_1a4c42e56df711b7d8da65f8bc09a8bbb362befc.jar" />
+    </item>
+
+</items>
